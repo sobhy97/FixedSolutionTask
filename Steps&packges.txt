@@ -1,0 +1,16 @@
+You should have the below before running the scripts:
+
+1-Download and install Google Chrome
+2-install java jdk
+3-install ide (intelliJ or Elipse)
+4-install github
+5-pull the project and try to open it from the ide
+
+------------------------------------------------------
+Steps to run the project:
+
+1-Open project from the ide
+2-After this open src file
+3-Click on main then select Pages, it contains all locators and methods 
+4-Navigate back and select test , it contains all test cases 
+5-To run the testcases, click on the TestSuite.xml and run 
